@@ -12,5 +12,5 @@ L'annonce de la description de l'objet est automatiquement activée dans les opt
 
 ## Compatibilité ##
 
-* Cette extension est compatible avec les versions de NVDA allant de la 2014.3 à la 2020.4.
+* Cette extension est compatible avec les versions de NVDA allant de la 2014.3 à la 2021.2.
 
