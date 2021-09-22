@@ -1,6 +1,8 @@
 # agenda
 
-* Auteurs : Nicolas Dubus, Abdelkrim Bensaïd
+* Auteurs : Nicolas Dubus, Abdelkrim Bensaïd;
+* Télécharger [version stable][1].
+
 
 # Présentation #
 
@@ -14,3 +16,4 @@ L'annonce de la description de l'objet est automatiquement activée dans les opt
 
 * Cette extension est compatible avec les versions de NVDA allant de la 2014.3 à la 2021.2.
 
+[1]: https://github.com/ndubus/agenda/releases/download/v21.09/agenda-21.09.nvda-addon

@@ -25,7 +25,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description" : _("""Cette extension offre une meilleure accessibilité au programme Agenda avec NVDA"""),
 	# version
-	"addon_version" : "21.08",
+	"addon_version" : "21.09",
 	# Author(s)
 	"addon_author" : u"Nicolas DUBUS <nicolas.dubus@orange.fr>, Abdelkrim BENSAÏD",
 	# URL for the add-on documentation support
