@@ -1,19 +1,20 @@
 # agenda
 
-* Auteurs : Nicolas Dubus, Abdelkrim Bensaïd;
-* Télécharger [version stable][1].
+* Author(s) : Nicolas Dubus, Abdelkrim Bensaïd;
+* Download [stable version][1].
 
 
-# Présentation #
+# Presentation #
 
-Cette extension améliore l'accessibilité du programme agenda créé par Jean-Claude Mortimor avec NVDA.
+This add-on improves the accessibility of the software agenda created by Jean-Claude Mortimor with NVDA.
 
-Les zones d'édition rencontrées lors de la création d'un rendez-vous ou d'un pense-bête, d'une liste d'un rendez-vous par semaine ou d'une liste de rendez-vous ont été étiquetées pour faciliter l'utilisation du programme.
+The edit boxes obtained by creating an appointment, a reminder, a list of an appointment by week or a list of appointments have been labeled to facilitate the use of the program.
 
-L'annonce de la description de l'objet est automatiquement activée dans les options de NVDA si cela n'est pas déjà le cas.
+Last, The Announcement of the object description is automatically enabled in the NVDA options if this is not already the case.
 
-## Compatibilité ##
+## Compatibility ##
 
-* Cette extension est compatible avec les versions de NVDA allant de la 2014.3 à la 2021.2.
+* This addon has been tested with versions of NVDA ranging from 2014.3 up to 2021.2.
+
 
 [1]: https://github.com/ndubus/agenda/releases/download/v21.09/agenda-21.09.nvda-addon
