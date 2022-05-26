@@ -14,6 +14,6 @@ L'annonce de la description de l'objet est automatiquement activée dans les opt
 
 ## Compatibilité ##
 
-* Cette extension est compatible avec les versions de NVDA allant de la 2014.3 à la 2021.2.
+* Cette extension est compatible avec les versions de NVDA allant de la 2014.3 à la 2022.1.
 
-[1]: https://github.com/ndubus/agenda/releases/download/v21.09/agenda-21.09.nvda-addon
+[1]: https://github.com/ndubus/agenda/releases/download/v22.05/agenda-22.05.nvda-addon
