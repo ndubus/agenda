@@ -23,7 +23,7 @@ addon_info = {
 	"addon_summary" : _("Add-on for the program Agenda"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon_description" : _("""Cette extension offre une meilleure accessibilité au programme Agenda avec NVDA"""),
+	"addon_description" : _("""This add-on provides better accessibility to the Agenda program with NVDA"""),
 	# version
 	"addon_version" : "23.05",
 	# Author(s)
