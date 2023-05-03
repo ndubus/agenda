@@ -20,12 +20,12 @@ addon_info = {
 	# Add-on summary, usually the user visible name of the addon.
 	# Translators: Summary for this add-on
 	# to be shown on installation and add-on information found in Add-ons Manager.
-	"addon_summary" : "Extension pour le programme Agenda",
+	"addon_summary" : _("Add-on for the program Agenda"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description" : _("""Cette extension offre une meilleure accessibilité au programme Agenda avec NVDA"""),
 	# version
-	"addon_version" : "23.03-dev",
+	"addon_version" : "23.05",
 	# Author(s)
 	"addon_author" : u"Nicolas DUBUS <nicolas.dubus@orange.fr>, Abdelkrim BENSAÏD",
 	# URL for the add-on documentation support

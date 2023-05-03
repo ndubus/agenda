@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 #agenda.py
 import appModuleHandler
-import controlTypes
-import api
-import ui
-import speech
 
 fieldHeader = {
 10:"Mois",
@@ -30,10 +26,7 @@ class AppModule(appModuleHandler.AppModule):
 				else:
 					fieldHeader[9]=u"Jour du pense-bête" if (obj.simpleNext and obj.simpleNext.simpleNext and obj.simpleNext.simpleNext.simpleNext and not obj.simpleNext.simpleNext.simpleNext.simpleNext) or (obj.simpleNext and obj.simpleNext.simpleNext and obj.simpleNext.simpleNext.simpleNext and obj.simpleNext.simpleNext.simpleNext.simpleNext and obj.simpleNext.simpleNext.simpleNext.simpleNext.simpleNext and not obj.simpleNext.simpleNext.simpleNext.simpleNext.simpleNext.simpleNext) else "Jour du rendez-vous"
 			obj.name= fieldHeader[controlID]
-			speech.speakObject(obj, reason=controlTypes.REASON_CHANGE if hasattr(controlTypes, "REASON_CHANGE") else controlTypes.OutputReason.CHANGE)
-		else:
-			speech.speakObject(obj, reason=controlTypes.REASON_FOCUS if hasattr(controlTypes, "REASON_FOCUS") else controlTypes.OutputReason.FOCUS)
-		nextHandler
+		nextHandler()
 
 	def script_searchDate (self, gesture):
 		gesture.send()

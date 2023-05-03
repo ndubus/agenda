@@ -14,7 +14,12 @@ Last, The Announcement of the object description is automatically enabled in the
 
 ## Compatibility ##
 
-* This addon has been tested with versions of NVDA ranging from 2014.3 up to 2022.1.
+* This addon has been tested with versions of NVDA ranging from 2014.3 up to 2023.1.
 
 
-[1]: https://github.com/ndubus/agenda/releases/download/v22.05/agenda-22.05.nvda-addon
+## Changes for version 23.05 ##
+
+* Added support for braille display;
+* Updated lastTestedNVDAVersion to 2023.1.
+
+[1]: https://github.com/ndubus/agenda/releases/download/v23.05/agenda-23.05.nvda-addon
