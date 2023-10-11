@@ -4,6 +4,7 @@
 
 import config
 
+
 def onInstall():
 	if not config.conf["presentation"]["reportObjectDescriptions"]:
 		config.conf["presentation"]["reportObjectDescriptions"] = True
