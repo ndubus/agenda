@@ -14,7 +14,11 @@ L'annonce de la description de l'objet est automatiquement activée dans les opt
 
 ## Compatibilité ##
 
-* Cette extension est compatible avec les versions de NVDA allant de la 2014.3 à la 2023.1.
+* Cette extension est compatible avec les versions de NVDA 2014.3 et au-delà.
+
+## Changements pour la version 23.10 ##
+
+* Application des règles flake8 au code Python du module complémentaire.
 
 ## Changements pour la version 23.05 ##
 

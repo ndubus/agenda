@@ -14,8 +14,11 @@ Last, The Announcement of the object description is automatically enabled in the
 
 ## Compatibility ##
 
-* This addon has been tested with versions of NVDA ranging from 2014.3 up to 2023.1.
+* This addon has been tested with versions of NVDA ranging from 2014.3 and beyond.
 
+## Changes for version 23.10 ##
+
+* Applyed flake8 rules to add-on's Python code.
 
 ## Changes for version 23.05 ##
 
