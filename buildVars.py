@@ -25,7 +25,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description" : _("""This add-on provides better accessibility to the Agenda program with NVDA"""),
 	# version
-	"addon_version" : "23.10",
+	"addon_version" : "24.04",
 	# Author(s)
 	"addon_author" : u"Nicolas DUBUS <nicolas.dubus@orange.fr>, Abdelkrim BENSAÏD",
 	# URL for the add-on documentation support
