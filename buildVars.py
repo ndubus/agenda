@@ -29,7 +29,7 @@ addon_info = {
 	# Author(s)
 	"addon_author" : u"Nicolas DUBUS <nicolas.dubus@orange.fr>, Abdelkrim BENSAÏD",
 	# URL for the add-on documentation support
-	"addon_url" : "",
+	"addon_url" : "https://github.com/ndubus/agenda",
 	# Documentation file name
 	"addon_docFileName": "readme.html",
 	# Minimum NVDA version supported (e.g. "2018.3.0", minor version is optional)
